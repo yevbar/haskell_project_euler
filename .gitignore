@@ -1,0 +1,6 @@
+# ignore everything by default
+*
+# un-ignore this file
+!.gitignore
+# un-ignore haskell source files
+!*.hs
