@@ -4,3 +4,5 @@
 !.gitignore
 # un-ignore haskell source files
 !*.hs
+# un-ignore README
+!README.md
