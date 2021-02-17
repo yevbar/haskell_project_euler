@@ -1,7 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-import Debug.Trace (trace)
-
 main = do
   putStrLn $ show $ getTriangleNumberWithDivisors 500
 
